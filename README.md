@@ -5,10 +5,13 @@
 This is an app for the application to iOS 102 from CodePath. It is just an introduction app.
 
 ### App Walk-though
-
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<div>
+    <a href="https://www.loom.com/share/86bc36abc2a5436e93ef970e403c03d2">
+    </a>
+    <a href="https://www.loom.com/share/86bc36abc2a5436e93ef970e403c03d2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/86bc36abc2a5436e93ef970e403c03d2-with-play.gif">
+    </a>
+  </div>
 
 ### Required Features
 
