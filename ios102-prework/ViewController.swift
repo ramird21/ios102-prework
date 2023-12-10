@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         
         let introduction = "My name is \(firstNameTextField.text!) \(lastNameTextField.text!) and I attend \(schoolNameTextField.text!). I am currently in my \(year!) year and I own \(numberOfPetsLabel.text!) dogs. It is \(morePetsSwitch.isOn) that I want more pets."
         
-//        print(introduction)
+        
         
         let alertController = UIAlertController(title: "My Introduction", message: introduction, preferredStyle: .alert)
         
