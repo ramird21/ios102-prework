@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## IOS102 Pre-work: Introduce Yourself
 
 ### App Description
 
